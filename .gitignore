@@ -1,0 +1,7 @@
+
+*.csv
+privateKeys.py
+
+__pycache__
+
+*.sw*
